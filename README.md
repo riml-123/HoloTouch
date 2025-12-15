@@ -1,6 +1,7 @@
 # HoloTouch - Jester Gesture Recognition & AR UI System
 
-딥러닝 기반의 제스처 인식을 통해 AR(증강현실) 환경에서 가상의 UI를 직관적으로 제어하는 인터페이스 시스템
+제스처 인식 모델을 통해 AR 환경 UI를 직관적으로 제어하는 인터페이스 시스템.
+
 Jester 데이터셋을 학습한 경량화된 SE-TCN 모델을 사용하여, 저사양 환경에서도 평균 2ms의 지연속도로 사용자의 의도를 파악하고 상호작용합니다.
 
 ## 특징
@@ -62,7 +63,7 @@ Jester 데이터셋을 학습한 경량화된 SE-TCN 모델을 사용하여, 저
 └── README.md              
 ```
 
-**app과 jester_mediapipe_csv 폴더는 용량 이슈로 인해 이 드라이브 링크에서 확인 가능합니다**
+**app과 jester_mediapipe_csv 폴더는 용량 이슈로 인해 [이 드라이브 링크](https://drive.google.com/drive/folders/162QUNoFs08auC40fTd_GvwbtwobN8ePO?usp=sharing)에서 확인 가능합니다**
 
 ## 모델 아키텍처
 
