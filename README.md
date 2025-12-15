@@ -1,4 +1,4 @@
-# HoloTouch - Jester Gesture Recognition & AR UI System
+# HoloTouch - Gesture Recognition & AR UI System
 
 제스처 인식 모델을 통해 AR 환경 UI를 직관적으로 제어하는 인터페이스 시스템.
 
