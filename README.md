@@ -48,7 +48,7 @@ Jester 데이터셋을 학습한 경량화된 SE-TCN 모델을 사용하여, 저
 
 ## 사용법
 ```
-├── app/                    # GUI 애플리케이션
+├── app/                    # GUI 애플리케이션(별도 다운로드)
 │   ├── main_app.py         # 메인 애플리케이션
 │   ├── worker.py           # 추론 워커
 │   └── HoloTouch_SE_TCN.onnx  # ONNX 모델
@@ -58,7 +58,7 @@ Jester 데이터셋을 학습한 경량화된 SE-TCN 모델을 사용하여, 저
 │   ├── inference.py        # 추론 스크립트
 │   └── extract_mediapipe_features.py  # 특징 추출
 ├── jester_dataset_v1/      # Jester 데이터셋(별도 생성)
-├── jester_mediapipe_csv/   # 전처리된 데이터
+├── jester_mediapipe_csv/   # 전처리된 데이터(별도 다운로드)
 └── README.md              
 ```
 
